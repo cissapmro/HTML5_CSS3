@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+}
+body {
+    font-size: 17px;
+}
+#degrade {
+    width: 200px;
+    height: 200px;
+    background: #8bc9e3;
+
+    background: linear-gradient(80deg,yellow, red);
+
+
+}
+
+//  /*background: linear-gradient(red, deepskyblue, yellow);
+ //   background: moz-linear-gradient(red, deepskyblue, yellow);
+  //  background: o-linear-gradient(red, deepskyblue, yellow);
+   // background: webkit-linear-gradient(red, deepskyblue, yellow);*/

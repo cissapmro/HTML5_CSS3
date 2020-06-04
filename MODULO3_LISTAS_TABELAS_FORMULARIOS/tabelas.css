@@ -1,0 +1,23 @@
+*{
+    box-sizing: border-box;
+}
+body {
+    margin: 50px;
+    font-size: 17px;
+}
+table  {
+    width: 600px;
+}
+ table thead {
+     background-color: #CCCC;
+}
+ th, td {
+     padding: 10px;
+     text-align: center;
+ }
+ tbody tr:hover {
+     background-color: #CCC;
+ }
+ tbody tr:nth-child(even) {
+     background-color: #7d0000;
+ }

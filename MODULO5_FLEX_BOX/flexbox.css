@@ -1,0 +1,47 @@
+*{
+    box-sizing: border-box;
+}
+body {
+    font-size: 17px;
+}
+.container {
+    display: flex;
+   // flex-direction: row;
+    flex-flow: row wrap;
+    background-color: #00bfbf;
+}
+.container div {
+    background-color: red;
+    margin:10px;
+    padding: 10px;
+    font-size: 18px;
+}
+.div1 {
+    flex: 3;
+}
+.div2 {
+    flex: 12;
+}
+.div3 {
+    flex:3;
+}
+.article {
+    display: flex;
+   // flex-direction: column;
+    flex-flow: column wrap;
+    background-color: yellow;
+}
+.article div {
+    padding: 10px;
+    margin: 10px;
+    width: 215px;
+}
+.article1 {
+    flex: 1;
+    background-color: indianred;
+}
+.article2 {
+    flex: 2;
+    background-color: #00bfbf;
+}
+

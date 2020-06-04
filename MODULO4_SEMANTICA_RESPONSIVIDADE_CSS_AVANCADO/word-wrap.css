@@ -1,0 +1,9 @@
+body {
+margin: 0;
+}
+.exemplo {
+    width: 100px;
+    height: 200px;
+    background-color: red;
+    word-wrap: break-word;
+}

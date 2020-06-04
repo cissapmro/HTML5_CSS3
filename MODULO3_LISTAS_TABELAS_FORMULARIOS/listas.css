@@ -1,0 +1,13 @@
+*{
+    box-sizing: border-box;
+}
+body {
+    margin: 100px;
+    font-size: 14px;
+}
+h1 {
+    font-family: 'Roboto Slab';
+}
+p {
+    font-family: 'Modak';
+}

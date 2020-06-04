@@ -1,0 +1,22 @@
+*{
+    box-sizing: border-box;
+}
+body {
+    margin: 50px;
+}
+
+p {
+    color: blue;
+    font-family: bookman old style;
+    text-shadow: 1px 1px 3px red;
+}
+
+//p {
+      color: red;
+      font-family: "Noto Serif", "DejaVu Serif", serif;
+      font-size: 14px;
+      font-weight: bold;
+      text-indent: 15px;
+      text-align: center;
+      text-decoration: underline;
+  }

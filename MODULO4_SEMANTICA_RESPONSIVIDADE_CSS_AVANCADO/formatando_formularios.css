@@ -1,0 +1,36 @@
+*{
+    box-sizing: border-box;
+}
+body {
+    margin: 50px;
+    font-size: 17px;
+}
+label {
+    display:block;
+    margin-bottom: 20px;
+}
+input[type=text], textarea, select{
+    padding: 10px;
+    width: 500px;
+    margin-top: 10px;
+    outline: 0;
+    font-size: 12px;
+
+}
+button{
+    background-color: #00bfbf;
+    padding: 10px;
+}
+button:hover{
+    background-color: #7d0000;
+}
+textarea {
+    resize:none;
+}
+.termoslink {
+    text-decoration: none;
+    color: #000000;
+}
+.termoslink:hover {
+    text-decoration:underline;
+}
